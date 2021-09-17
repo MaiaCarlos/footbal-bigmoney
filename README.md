@@ -8,7 +8,7 @@ The main question was "What It Takes To Make Big Money In Football?". The goal w
 
 ## Steps
 
-1. The chosen database was found on Kaggle. _(link to be inserted)_
+1. The chosen database was found on Kaggle: https://www.kaggle.com/stefanoleone992/fifa-21-complete-player-dataset?select=players_21.csv
 2. The data had to be trated and cleaned. For that, Python was used.
 3. Then, the data was analyzed in Tableau. The following were considered: players that manke more money, the best teams to play in, understand the relation between the wage and other characteristics of the player, based in what was contemplated on the data.
 
