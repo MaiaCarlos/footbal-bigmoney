@@ -20,3 +20,7 @@ After analysing the data and with the help of the graphics in Tableau, it is pos
 - Have potential, good moves reaction and a great overal score;
 - Have a good international reputation and being know for mentality composure;
 - Play in the teams that, in average, pay more and also in the best positions (CAM, RCM, CF, LW or LCM).
+
+##Observation
+
+- This analalize could be better if we have goals/game
