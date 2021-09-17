@@ -21,6 +21,6 @@ After analysing the data and with the help of the graphics in Tableau, it is pos
 - Have a good international reputation and being know for mentality composure;
 - Play in the teams that, in average, pay more and also in the best positions (CAM, RCM, CF, LW or LCM).
 
-## Observation
+## Note
 
-- This analalize could be better if we have goals/game
+This analysis could be more complete if there was information regarding the average number of goals per game.
